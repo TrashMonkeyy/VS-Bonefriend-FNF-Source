@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bonefriendDia.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bonefriend dia0000" x="0" y="0" width="471" height="317" frameX="0" frameY="0" frameWidth="485" frameHeight="317"/>
+	<SubTexture name="bonefriend dia0001" x="471" y="0" width="471" height="317" frameX="0" frameY="0" frameWidth="485" frameHeight="317"/>
+	<SubTexture name="bonefriend dia0002" x="0" y="317" width="480" height="317" frameX="0" frameY="0" frameWidth="485" frameHeight="317"/>
+	<SubTexture name="bonefriend dia0003" x="480" y="317" width="485" height="317"/>
+</TextureAtlas>
